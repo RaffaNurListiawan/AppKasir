@@ -1,0 +1,12 @@
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.csprojResolveAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormLogin.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMenuUtama.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.Cache
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterKasir.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\Program Apllikasi Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterBarang.resources
